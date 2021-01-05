@@ -1,37 +1,3 @@
-Skip to content
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@Rambh71 
-Learn Git and GitHub without any code!
-Using the Hello World guide, you’ll start a branch, write comments, and open a pull request.
-
-
-whitehatjr
-/
-wrecking-ball
-1
-245
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-wrecking-ball/wrecking ball/matter.js /
-@whitehatjr
-whitehatjr solution code for c34 b
-Latest commit a3adb6d on Aug 25, 2020
- History
- 1 contributor
-10180 lines (8603 sloc)  331 KB
-  
 /**
 * matter-js 0.12.0 by @liabru 2017-02-02
 * http://brm.io/matter-js/
@@ -69,6 +35,7 @@ Latest commit a3adb6d on Aug 25, 2020
 * Factories for commonly used body configurations (such as rectangles, circles and other polygons) can be found in the module `Matter.Bodies`.
 *
 * See the included usage [examples](https://github.com/liabru/matter-js/tree/master/examples).
+
 * @class Body
 */
 
@@ -10211,15 +10178,3 @@ var Vector = _dereq_('../geometry/Vector');
 
 },{"../body/Composite":2,"../core/Common":14,"../core/Events":16,"../geometry/Bounds":26,"../geometry/Vector":28}]},{},[30])(30)
 });
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
